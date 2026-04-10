@@ -47,3 +47,12 @@ This project demonstrates my ability to design structured QA test cases for mode
 
 ## 🧩 Note
 This project was self-initiated to practice QA testing on modern AI-driven applications.
+
+
+## 🧾 Sample Test Case Format
+- Test Case ID
+- Test Scenario
+- Steps to Reproduce
+- Expected Result
+- Actual Result
+- Status
